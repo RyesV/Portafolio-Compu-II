@@ -5,19 +5,19 @@ Este repositorio documenta los trabajos de la asignatura Física Computacional I
 ## Contenido del Repositorio
 El repositorio se organiza por actividades o proyectos, cubriendo temas de física computacional como:
 
-Introducción a Python y Gráficos: Triángulo de Pascal, Fuerza Gravitacional.
+- Introducción a Python y Gráficos: Triángulo de Pascal, Fuerza Gravitacional.
 
-Algoritmos y Métodos Numéricos: Algoritmo de Shor extrapolado, Derivada de polinomio y error, Derivadas Discretas (Manchas Solares), Teorema Fundamental del Cálculo (Derivada Centrada, Método Simpson), Integral numérica vs analítica, Búsqueda de ceros (Bisección, Bisección Mejorado para Funciones de Bessel), Ley de Planck (Adimensionalización, Inversa).
+- Algoritmos y Métodos Numéricos: Algoritmo de Shor extrapolado, Derivada de polinomio y error, Derivadas Discretas (Manchas Solares), Teorema Fundamental del Cálculo (Derivada Centrada, Método Simpson), Integral numérica vs analítica, Búsqueda de ceros (Bisección, Bisección Mejorado para Funciones de Bessel), Ley de Planck (Adimensionalización, Inversa).
 
-Resolución de Ecuaciones Diferenciales Ordinarias (EDOs): Péndulo Simple (Euler, Runge-Kutta, Energía/Espacio de Fase), Péndulo Doble (Solución Numérica, Análisis Energía), Atractor de Lorenz, Ecuaciones de Lane-Emden.
+- Resolución de Ecuaciones Diferenciales Ordinarias (EDOs): Péndulo Simple (Euler, Runge-Kutta, Energía/Espacio de Fase), Péndulo Doble (Solución Numérica, Análisis Energía), Atractor de Lorenz, Ecuaciones de Lane-Emden.
 
-Funciones Especiales: Funciones de Bessel.
+- Funciones Especiales: Funciones de Bessel.
 
-Cada sección detalla el problema, enfoque teórico/matemático, implementación (principalmente Python) y análisis de resultados.
+- Cada sección detalla el problema, enfoque teórico/matemático, implementación (principalmente Python) y análisis de resultados.
 
 ## Tecnologías Utilizadas
-Lenguaje de Programación: Python
+- Lenguaje de Programación: Python
 
-Librerías Principales: NumPy, Matplotlib
+- Librerías Principales: NumPy, Matplotlib
 
-Documentación: LaTeX (para el portafolio final)
+- Documentación: LaTeX (para el portafolio final)
