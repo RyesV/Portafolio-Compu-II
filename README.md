@@ -1,6 +1,7 @@
 # Portafolio Física Computacional II - Universidad de Concepción
 ## Descripción del Proyecto
 Este repositorio documenta los trabajos de la asignatura Física Computacional II (510240), impartida en el Departamento de Física de la Universidad de Concepción (2do semestre 2023). El portafolio aplica herramientas computacionales y lenguajes de programación para resolver problemas físicos, generar programas basados en algoritmos y física matemática/estadística, y abordar numéricamente EDOs.
+Este fue un proyecto colaborativo, cuyos colaboradores son Fernanda Mella y Javiera Arauco.
 
 ## Contenido del Repositorio
 El repositorio se organiza por actividades o proyectos, cubriendo temas de física computacional como:
